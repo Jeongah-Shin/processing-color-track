@@ -4,6 +4,8 @@ Tracking the specific color that user chooses and Making various effects based o
 ## Setup
 Clone the file in your directory and start the project with your processing sketch.
 <br/>
+<code> git clone https://github.com/Jeongah-Shin/processing-color-track.git developing </code>
+<br/>
 ## First, Tracking the specific point
 If you pick the specific point with <code>'mouse click'</code> action, it would be the standard point.
 <br/><br/>

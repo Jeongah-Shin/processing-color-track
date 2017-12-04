@@ -1,6 +1,9 @@
 ## processing-color-track
 Tracking the specific color that user chooses and Making various effects based on the tracked point.
-
+<br/>
+## Setup
+Clone the file in your directory and start the project with your processing sketch.
+<br/>
 ## First, Tracking the specific point
 If you pick the specific point with <code>'mouse click'</code> action, it would be the standard point.
 <br/><br/>
